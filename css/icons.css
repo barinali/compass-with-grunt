@@ -1,0 +1,328 @@
+.icon {
+  background-image: url('../img/icons-s18747cf5fd.png');
+  display: inline-block; }
+
+.icon-8ball {
+  background-position: 0 0;
+  height: 32px;
+  width: 32px; }
+
+.icon-alert {
+  background-position: 0 -32px;
+  height: 32px;
+  width: 32px; }
+
+.icon-app {
+  background-position: 0 -64px;
+  height: 32px;
+  width: 32px; }
+
+.icon-apple-green {
+  background-position: 0 -96px;
+  height: 32px;
+  width: 32px; }
+
+.icon-apple-red {
+  background-position: 0 -128px;
+  height: 32px;
+  width: 32px; }
+
+.icon-basketball {
+  background-position: 0 -160px;
+  height: 32px;
+  width: 32px; }
+
+.icon-bell {
+  background-position: 0 -192px;
+  height: 32px;
+  width: 32px; }
+
+.icon-block {
+  background-position: 0 -224px;
+  height: 32px;
+  width: 32px; }
+
+.icon-burger {
+  background-position: 0 -256px;
+  height: 32px;
+  width: 32px; }
+
+.icon-cd-copy {
+  background-position: 0 -288px;
+  height: 32px;
+  width: 32px; }
+
+.icon-cd {
+  background-position: 0 -320px;
+  height: 32px;
+  width: 32px; }
+
+.icon-chat {
+  background-position: 0 -352px;
+  height: 32px;
+  width: 32px; }
+
+.icon-clipboard {
+  background-position: 0 -384px;
+  height: 32px;
+  width: 32px; }
+
+.icon-clock {
+  background-position: 0 -416px;
+  height: 32px;
+  width: 32px; }
+
+.icon-coke {
+  background-position: 0 -448px;
+  height: 32px;
+  width: 32px; }
+
+.icon-color-palette {
+  background-position: 0 -480px;
+  height: 32px;
+  width: 32px; }
+
+.icon-credit-card {
+  background-position: 0 -512px;
+  height: 32px;
+  width: 32px; }
+
+.icon-date {
+  background-position: 0 -544px;
+  height: 32px;
+  width: 32px; }
+
+.icon-doc {
+  background-position: 0 -576px;
+  height: 32px;
+  width: 32px; }
+
+.icon-download {
+  background-position: 0 -608px;
+  height: 32px;
+  width: 32px; }
+
+.icon-dvd-copy {
+  background-position: 0 -640px;
+  height: 32px;
+  width: 32px; }
+
+.icon-dvd {
+  background-position: 0 -672px;
+  height: 32px;
+  width: 32px; }
+
+.icon-earth {
+  background-position: 0 -704px;
+  height: 32px;
+  width: 32px; }
+
+.icon-edit {
+  background-position: 0 -736px;
+  height: 32px;
+  width: 32px; }
+
+.icon-flag {
+  background-position: 0 -768px;
+  height: 32px;
+  width: 32px; }
+
+.icon-flower {
+  background-position: 0 -800px;
+  height: 32px;
+  width: 32px; }
+
+.icon-help {
+  background-position: 0 -832px;
+  height: 32px;
+  width: 32px; }
+
+.icon-id-card {
+  background-position: 0 -864px;
+  height: 32px;
+  width: 32px; }
+
+.icon-lamp {
+  background-position: 0 -896px;
+  height: 32px;
+  width: 32px; }
+
+.icon-lock {
+  background-position: 0 -928px;
+  height: 32px;
+  width: 32px; }
+
+.icon-movie {
+  background-position: 0 -960px;
+  height: 32px;
+  width: 32px; }
+
+.icon-music-1 {
+  background-position: 0 -992px;
+  height: 32px;
+  width: 32px; }
+
+.icon-music-2 {
+  background-position: 0 -1024px;
+  height: 32px;
+  width: 32px; }
+
+.icon-music-3 {
+  background-position: 0 -1056px;
+  height: 32px;
+  width: 32px; }
+
+.icon-note-2 {
+  background-position: 0 -1088px;
+  height: 32px;
+  width: 32px; }
+
+.icon-note {
+  background-position: 0 -1120px;
+  height: 32px;
+  width: 32px; }
+
+.icon-pack-1 {
+  background-position: 0 -1152px;
+  height: 32px;
+  width: 32px; }
+
+.icon-pack-2 {
+  background-position: 0 -1184px;
+  height: 32px;
+  width: 32px; }
+
+.icon-pdf {
+  background-position: 0 -1216px;
+  height: 32px;
+  width: 32px; }
+
+.icon-pen {
+  background-position: 0 -1248px;
+  height: 32px;
+  width: 32px; }
+
+.icon-pencil-2 {
+  background-position: 0 -1280px;
+  height: 32px;
+  width: 32px; }
+
+.icon-photo {
+  background-position: 0 -1312px;
+  height: 32px;
+  width: 32px; }
+
+.icon-poo {
+  background-position: 0 -1344px;
+  height: 32px;
+  width: 32px; }
+
+.icon-print {
+  background-position: 0 -1376px;
+  height: 32px;
+  width: 32px; }
+
+.icon-recycle {
+  background-position: 0 -1408px;
+  height: 32px;
+  width: 32px; }
+
+.icon-ruler {
+  background-position: 0 -1440px;
+  height: 32px;
+  width: 32px; }
+
+.icon-search {
+  background-position: 0 -1472px;
+  height: 32px;
+  width: 32px; }
+
+.icon-security {
+  background-position: 0 -1504px;
+  height: 32px;
+  width: 32px; }
+
+.icon-settings {
+  background-position: 0 -1536px;
+  height: 32px;
+  width: 32px; }
+
+.icon-skull {
+  background-position: 0 -1568px;
+  height: 32px;
+  width: 32px; }
+
+.icon-soccer-ball {
+  background-position: 0 -1600px;
+  height: 32px;
+  width: 32px; }
+
+.icon-t-shirt {
+  background-position: 0 -1632px;
+  height: 32px;
+  width: 32px; }
+
+.icon-tennis-ball {
+  background-position: 0 -1664px;
+  height: 32px;
+  width: 32px; }
+
+.icon-text {
+  background-position: 0 -1696px;
+  height: 32px;
+  width: 32px; }
+
+.icon-toilet-paper {
+  background-position: 0 -1728px;
+  height: 32px;
+  width: 32px; }
+
+.icon-toy-2 copy {
+  background-position: 0 -1760px;
+  height: 32px;
+  width: 32px; }
+
+.icon-toy {
+  background-position: 0 -1792px;
+  height: 32px;
+  width: 32px; }
+
+.icon-tree {
+  background-position: 0 -1824px;
+  height: 32px;
+  width: 32px; }
+
+.icon-twitter {
+  background-position: 0 -1856px;
+  height: 32px;
+  width: 32px; }
+
+.icon-unlock {
+  background-position: 0 -1888px;
+  height: 32px;
+  width: 32px; }
+
+.icon-upload {
+  background-position: 0 -1920px;
+  height: 32px;
+  width: 32px; }
+
+.icon-user-1 {
+  background-position: 0 -1952px;
+  height: 32px;
+  width: 32px; }
+
+.icon-user-2 {
+  background-position: 0 -1984px;
+  height: 32px;
+  width: 32px; }
+
+.icon-wireless {
+  background-position: 0 -2016px;
+  height: 32px;
+  width: 32px; }
+
+.icon-xls {
+  background-position: 0 -2048px;
+  height: 32px;
+  width: 32px; }

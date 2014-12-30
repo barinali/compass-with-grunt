@@ -1,0 +1,14 @@
+$icons-sprite: sprite-map('icons/*.png');
+
+.icon {
+  background-image: $icons-sprite;
+  display: inline-block;
+}
+
+@each $icon in sprite-names($icons-sprite) {
+  .icon-#{$icon} {
+    background-position: sprite-position($icons-sprite, $icon);
+    height: image-height(sprite-file($icons-sprite, $icon));
+    width: image-width(sprite-file($icons-sprite, $icon));
+  }
+}

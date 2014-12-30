@@ -1,0 +1,59 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,latin-ext);
+@import "compass/reset";
+@import "compass";
+
+$color-gray: #F0F0F0;
+$color-red: #E24E4E;
+
+*, *:before, *:after {
+  @include box-sizing(border-box);
+}
+
+body {
+  background-color: $color-gray;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  background: #fff;
+  @include border-radius(0 0 10px 10px);
+  margin: 0 auto;
+  min-height: 300px;
+  padding: 30px 20px;
+  width: 1170px;
+}
+
+h1 {
+  @include animation(nice-animation 1s);
+  @include animation-fill-mode(forwards);
+  border-bottom: 5px solid $color-gray;
+  color: $color-red;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.icon-set {
+  li { display: inline-block; }
+}
+
+$icons-sprite: sprite-map('icons/*.png');
+
+.icon {
+  background-image: $icons-sprite;
+  display: inline-block;
+}
+
+@each $icon in sprite-names($icons-sprite) {
+  .icon-#{$icon} {
+    background-position: sprite-position($icons-sprite, $icon);
+    height: image-height(sprite-file($icons-sprite, $icon));
+    width: image-width(sprite-file($icons-sprite, $icon));
+  }
+}
